@@ -5,7 +5,7 @@ package org.example.entity;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "curso_profesor")
+@Table(name = "cursoprofesor")
 @IdClass(CursoProfesor.class)
 public class CursoProfesor {
 
